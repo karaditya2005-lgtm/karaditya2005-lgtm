@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Aditya Kar
+
+### MCA Student | Python | AI/ML | Web Development
+
+## 👨‍💻 About Me
+- 🎓 MCA Student at Chandigarh University
+- 💻 Interested in Python, AI/ML & Full Stack Development
+- 🚀 Building practical applications and real-world projects
+- 🌱 Learning Cloud Computing & Modern Technologies
+
+## 🛠 Tech Stack
+Python | JavaScript | HTML | CSS | React | Node.js | MySQL | MongoDB
+
+## 🚀 Projects
+- ✈ Flight Route Planner
+- 📚 Book Management System
+- ❤️ Health Data Analysis
+- 📈 Forecasting Price Optimization Using AI
+- 🎓 Student Academic Tracker
+- ☕ Cafe Store Website
+
+## 📫 Connect
+📧 karaditya2005@gmail.com  
+💼 LinkedIn: in/aditya-kar-852524282
 
 <!--
 **karaditya2005-lgtm/karaditya2005-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
