@@ -18,6 +18,9 @@ Python | JavaScript | HTML | CSS | React | Node.js | MySQL | MongoDB
 - 📈 Forecasting Price Optimization Using AI
 - 🎓 Student Academic Tracker
 - ☕ Cafe Store Website
+- 🧠 Cyber Security Project
+- 🖼 Background Remover Tool
+- 🎮 Quiz Game
 
 ## 📫 Connect
 📧 karaditya2005@gmail.com  
