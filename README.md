@@ -6,7 +6,6 @@
 - 🎓 MCA Student at Chandigarh University
 - 💻 Interested in Python, AI/ML & Full Stack Development
 - 🚀 Building practical applications and real-world projects
-- 🌱 Learning Cloud Computing & Modern Technologies
 
 ## 🛠 Tech Stack
 Python | JavaScript | HTML | CSS | React | Node.js | MySQL | MongoDB
