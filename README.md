@@ -11,20 +11,10 @@
 ## 🛠 Tech Stack
 Python | JavaScript | HTML | CSS | React | Node.js | MySQL | MongoDB
 
-## 🚀 Projects
-- ✈ Flight Route Planner
-- 📚 Book Management System
-- ❤️ Health Data Analysis
-- 📈 Forecasting Price Optimization Using AI
-- 🎓 Student Academic Tracker
-- ☕ Cafe Store Website
-- 🧠 Cyber Security Project
-- 🖼 Background Remover Tool
-- 🎮 Quiz Game
 
 ## 📫 Connect
 📧 karaditya2005@gmail.com  
-💼 LinkedIn: in/aditya-kar-852524282
+💼 LinkedIn: aditya-kar-852524282
 
 <!--
 **karaditya2005-lgtm/karaditya2005-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
